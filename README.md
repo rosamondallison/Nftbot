@@ -1,4 +1,4 @@
-# VIP Sniper Bot
+# NFT Sniper Bot
 
 <img width="602" alt="cakebtcbnbimg" src="https://github.com/rosamondallison/Nftbot/assets/163585723/78a25f5b-baf3-47d6-bc7e-31e94158ab88">
 
