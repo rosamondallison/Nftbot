@@ -1,6 +1,7 @@
 # VIP Sniper Bot
 
-<img width="602" alt="cakebtcbnbimg" src="https://github.com/rosamondallison/Nftbot/assets/163585723/8349715b-80bf-400f-a74d-e9df22c13072">
+<img width="602" alt="cakebtcbnbimg" src="https://github.com/rosamondallison/Nftbot/assets/163585723/78a25f5b-baf3-47d6-bc7e-31e94158ab88">
+
 
 # What is the Pancakeswap Sniper Bot?
 
